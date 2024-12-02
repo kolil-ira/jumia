@@ -1,0 +1,8 @@
+Jumia TV Scraper
+This script scrapes product details (brand, price, discount, and rating) from the Jumia Kenya website's TV catalog. It uses the BeautifulSoup library to parse HTML and extract relevant product information.
+Extracting Product Information:
+
+Brand: Extracted from the product name.
+Price: Extracted from the price element.
+Discount: Extracted from the discount tag.
+Rating: Extracted from the product rating (if available).
